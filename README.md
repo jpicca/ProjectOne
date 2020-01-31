@@ -2,6 +2,8 @@
 
 For project info, head to: [Comparing City Accident Rates by Weather Condition](https://docs.google.com/document/d/1AdBdBNGvkvtY75vy4FQUB4UY7QnBio-q6RHKSfoH19I/edit?usp=sharing)
 
+For presentation slides, head to: [Presentation](https://docs.google.com/presentation/d/1d5BogmkLREU-IEHoZFiluKGDOJVRoI5aAzpZecKThUY/edit?usp=sharing)
+
 ### Conclusion
 ---
 This project gathered five years of weather and fatal accident data for the counties associated with the top 10 cities in the US. The goal was to investigate if particular cities performed worse (i.e., higher accident rate) in bad weather, relative to their mean accident rate on dry days. To do so, we formulated the hypothesis below:

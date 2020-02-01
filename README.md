@@ -4,8 +4,8 @@ For project info, head to: [Comparing City Accident Rates by Weather Condition](
 
 For presentation slides, head to: [Presentation](https://docs.google.com/presentation/d/1d5BogmkLREU-IEHoZFiluKGDOJVRoI5aAzpZecKThUY/edit?usp=sharing)
 
-Data Collection, Cleaning, and Exploration: readAPIandFormatData.ipynb
-Primary Data Analysis & Plotting: accidentRateAnalysis.ipynb
+ - Data Collection, Cleaning, and Exploration: readAPIandFormatData.ipynb
+ - Primary Data Analysis & Plotting: accidentRateAnalysis.ipynb
 
 ### Conclusion
 ---
